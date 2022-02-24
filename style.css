@@ -1,4 +1,9 @@
-h1 {
+header {
     font-size: 20px;
     background-color:lightblue;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
 }
